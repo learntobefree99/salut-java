@@ -1,7 +1,6 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("Salut, Gabriel!");
+        System.out.println("Învăț Java și GitHub!");
     }
-}git init
-git add .
-git commit -m "Primul meu program Java"
+}
